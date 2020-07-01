@@ -5,8 +5,19 @@
         <body>
        <?php
  
+       // Exo 1 
+ /* function impair($number) {
+    if ($number % 2 !== 0) {
+         echo $number.'<br>';
+    }
+}
+for($i = 0; $i<=150;$i++) {
+    impair($i);
+}     
+            
+            
  // Exo 2
- /* $nombre_de_ligne = 1;
+  $nombre_de_ligne = 1;
     while ($nombre_de_ligne <= 500)
     {
         echo 'Je dois faire des sauvegardes regulierements.<br>';
